@@ -27,7 +27,7 @@ We built a visualization tool for seeing the community detection results as netw
 We test our algorithm on 6 datasets, with different size and different group connection density. 
 The more similar the colors are, the more likely that these nodes share a same community.
 
-![Example: Community Detection Demo](https://github.com/Sapphirine/Community-Detection-In-AML/web_demo/6.PNG)
+![Example: Community Detection Demo](web_demo/6.PNG)
 
 ## Modeling
 The CESNA algorithm code is under ./code folder. Because the origin CESNA algorithm doesn’t consider the degree of weights, that means it may not be able to distinguish communities if the network is too sparse, where all nodes have similar small degrees and look similar to each other. But with our improvement, the algorithm become more robust and did achieve differentiating communities in various cases.
