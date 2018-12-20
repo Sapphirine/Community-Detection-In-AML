@@ -17,9 +17,9 @@ One more thing that we could develop in the future is increasing the speed of co
 Data is not uploaded to github due to size limitation. You can find the orginal dataset Paysim.csv on Kaggle (6,362,320 rows,over 500M).
 [Synthetic Financial Datasets For Fraud Detection](https://www.kaggle.com/ntnu-testimon/paysim1)
 
-And we also simulated the communities for data processing based on two methods. Methodologies for data simulation are described in the System Overview part in the final report. Codes for simulating data are here:
-[Dataset1](https://github.com/Sapphirine/Community-Detection-In-AML/data/Paysim_Simulating.ipynb)
-[Dataset2_GenerateData](https://github.com/Sapphirine/Community-Detection-In-AML/data/generate_data (Include in CESNA).py)
+And we also simulated the communities for data processing based on two methods. Methodologies for data simulation are described in the System Overview part in the final report. Codes for simulating data are here: <br />
+[Dataset1](https://github.com/Sapphirine/Community-Detection-In-AML/data/Paysim_Simulating.ipynb) <br />
+[Dataset2_GenerateData](https://github.com/Sapphirine/Community-Detection-In-AML/data/generate_data (Include in CESNA).py) <br />
 [Dataset2_GenerateAttributes](https://github.com/Sapphirine/Community-Detection-In-AML/data/attributes (Include in CESNA).py)
 
 ## Visualization
@@ -38,9 +38,9 @@ Algorithm Reference:
 [Yang, J., McAuley, J.,  Leskovec, J. \emph{Community detection in networks with node attributes}. IEEE 13th International Conference on Data Mining (icdm), 1151–1156. 2013.](https://github.com/Sapphirine/Community-Detection-In-AML/doc/cesna-icdm13.pdf).
 
 ## Presentation
-[Proposal Presentation](https://github.com/Sapphirine/Community-Detection-In-AML/doc/BigData_Final_Project_Proposal.pdf).
+[Proposal Presentation](https://github.com/Sapphirine/Community-Detection-In-AML/doc/BigData_Final_Project_Proposal.pdf). <br />
 [Final Presentation](https://github.com/Sapphirine/Community-Detection-In-AML/doc/BigData_Final_Project.pdf).
 
 ## Youtube Video
-[Proposal](https://www.youtube.com/watch?v=v8HZH7oLGQg)
+[Proposal](https://www.youtube.com/watch?v=v8HZH7oLGQg) <br />
 [Demo](https://www.youtube.com/watch?v=k0SItZ1MW-c)
