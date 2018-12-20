@@ -1,8 +1,8 @@
 E6893 Big Data Analytics Final Project - 18 Fall (Project ID: 201812-1)
 
 # Community-Detection-In-AML
-Project name: Community Detection in Anti-Money Laundering(AML)
-Project ID: 201812-1 
+Project name: Community Detection in Anti-Money Laundering(AML) <br />
+Project ID: 201812-1 <br />
 Team Members: Anke Xu(ax2127),  Tianyao Hua(th2706),  Siyu Liu(sl4262)
 
 ## Project Summary
