@@ -14,10 +14,10 @@ One more thing that we could develop in the future is increasing the speed of co
 
 
 ## Data & Data Processing
-Data is not uploaded to github due to size limitation. You can find the orginal dataset Paysim.csv on Kaggle (6,362,320 rows,over 500M).
+Data is not uploaded to github due to size limitation. You can find the orginal dataset Paysim.csv on Kaggle (6,362,320 rows,about 500M).
 [Synthetic Financial Datasets For Fraud Detection](https://www.kaggle.com/ntnu-testimon/paysim1)
 
-And we also simulated the communities for data processing based on two methods. Methodologies for data simulation are described in the System Overview part in the final report. Codes for simulating data are here: <br />
+Then we simulated the communities for data processing based on two methods. And the simulated datasets are over 500M. Methodologies for data simulation are described in the System Overview part in the final report. Codes for simulating data are here: <br />
 [Dataset1](https://github.com/Sapphirine/Community-Detection-In-AML/data/Paysim_Simulating.ipynb) <br />
 [Dataset2_GenerateData](https://github.com/Sapphirine/Community-Detection-In-AML/data/generate_data.py) <br />
 [Dataset2_GenerateAttributes](https://github.com/Sapphirine/Community-Detection-In-AML/data/attributes.py)
