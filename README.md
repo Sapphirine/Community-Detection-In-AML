@@ -35,7 +35,7 @@ The CESNA algorithm code is under ./code folder. Because the origin CESNA algori
 You can find the improved CESNA algorithm in [CESNA.py](https://github.com/Sapphirine/Community-Detection-In-AML/code/CESNA.py). And how we generate simulated dataset for this demo and how we evaluate the algorithm can also be found in the same python script.
 
 Algorithm Reference:
-[Yang, J., McAuley, J.,  Leskovec, J. \emph{Community detection in networks with node attributes}. IEEE 13th International Conference on Data Mining (icdm), 1151–1156. 2013.](https://github.com/Sapphirine/Community-Detection-In-AML/doc/cesna-icdm13.pdf).
+[Yang, J., McAuley, J.,  Leskovec, J. Community detection in networks with node attributes. IEEE 13th International Conference on Data Mining (icdm), 1151–1156. 2013.](https://github.com/Sapphirine/Community-Detection-In-AML/doc/cesna-icdm13.pdf).
 
 ## Presentation
 [Proposal Presentation](https://github.com/Sapphirine/Community-Detection-In-AML/doc/BigData_Final_Project_Proposal.pdf). <br />
